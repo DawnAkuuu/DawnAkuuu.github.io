@@ -14,11 +14,11 @@
     "text": "Markdown is very simple, and many sites, like Reddit, Stackoverflow, or even Discord use some variation of markdown formatting.\nBelow is the Markown from the presentation, copied and pasted here."
   },
   {
-    "objectID": "blog/markdown/index.html#markdown",
-    "href": "blog/markdown/index.html#markdown",
+    "objectID": "blog/markdown/index.html#markdown-2.0",
+    "href": "blog/markdown/index.html#markdown-2.0",
     "title": "Markdown formatting",
-    "section": "Markdown",
-    "text": "Markdown\n\nMarkdown is markup language\nEnables users to render formatted documents from plaintext\nMost static site generators use markdown"
+    "section": "Markdown 2.0",
+    "text": "Markdown 2.0\n\nMarkdown is markup language\nEnables users to render formatted documents from plaintext\nMost static site generators use markdown"
   },
   {
     "objectID": "blog/markdown/index.html#markdown-code-snippets",
