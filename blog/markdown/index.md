@@ -11,7 +11,7 @@ Markdown is very simple, and many sites, like Reddit, Stackoverflow, or even Dis
 Below is the Markown from the presentation, copied and pasted here. 
 
 
-## Markdown
+## Markdown 2.0
 
 * Markdown is **markup language**
 * Enables users to render formatted documents from **plaintext**
