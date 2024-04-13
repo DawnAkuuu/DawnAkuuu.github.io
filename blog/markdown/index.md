@@ -1,7 +1,7 @@
 ---
 title: Live fish reaction
 date: 2024-2-23
-description: description
+description: fish that is live
 categories: ['filter2', 'filter3']
 ---
 
