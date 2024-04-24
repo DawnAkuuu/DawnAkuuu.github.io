@@ -2,16 +2,30 @@
   {
     "objectID": "blog/K3SAndRancher/index.html",
     "href": "blog/K3SAndRancher/index.html",
-    "title": "Luis Silvas",
+    "title": "K3S and Rancher Deployment!",
     "section": "",
-    "text": "Hello!"
+    "text": "Kubernetes is a framework used to combine multiple machines, both baremetal and virtual, and turn them into one or more compute clusters."
+  },
+  {
+    "objectID": "blog/K3SAndRancher/index.html#what-the-heck-is-kubernetes-and-why-do-i-care",
+    "href": "blog/K3SAndRancher/index.html#what-the-heck-is-kubernetes-and-why-do-i-care",
+    "title": "K3S and Rancher Deployment!",
+    "section": "",
+    "text": "Kubernetes is a framework used to combine multiple machines, both baremetal and virtual, and turn them into one or more compute clusters."
+  },
+  {
+    "objectID": "blog/K3SAndRancher/index.html#why-k3s-and-rancher",
+    "href": "blog/K3SAndRancher/index.html#why-k3s-and-rancher",
+    "title": "K3S and Rancher Deployment!",
+    "section": "Why K3S and Rancher?",
+    "text": "Why K3S and Rancher?\nK3S is a lightweight distrubution of the much heavier and usually cloud based K8S."
   },
   {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
     "title": "Blog",
     "section": "",
-    "text": "About Me\n\n\n\n\n\n\nfilter1\n\n\nfilter2\n\n\n\nA short note about the man\n\n\n\n\n\nMar 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nLive fish reaction\n\n\n\n\n\n\nfilter2\n\n\nfilter3\n\n\n\nfish that is live\n\n\n\n\n\nFeb 23, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "K3S and Rancher Deployment!\n\n\n\n\n\n\nTech\n\n\nDevOps\n\n\n\nHow I created a Kuberenetes K3S cluster, and orchastrated it with Rancher\n\n\n\n\n\nApr 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Me\n\n\n\n\n\n\nfilter1\n\n\nfilter2\n\n\n\nA short note about the man\n\n\n\n\n\nMar 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nLive fish reaction\n\n\n\n\n\n\nfilter2\n\n\nfilter3\n\n\n\nfish that is live\n\n\n\n\n\nFeb 23, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
