@@ -2,6 +2,7 @@
   {
     "listing": "/blog/index.html",
     "items": [
+      "/blog/K3SAndRancher/index.html",
       "/blog/quarto/index.html",
       "/blog/Fish Reaction/index.html"
     ]
